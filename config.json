@@ -1,7 +1,7 @@
 [
   {
     "host": "127.0.0.1",
-    "port": 6379,
+    "port": 8080,
     "recordKeyspaceHistoryFrequency": 10000,
     "maxKeyspaceHistoryCount": 500,
     "eventGraphRefreshFrequency": 10000,
